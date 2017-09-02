@@ -2,7 +2,7 @@ title = "唐山晋水"
 baseURL = "https://firebirdsoul.github.io"
 languageCode = "en-us"
 theme = "ananke"
-canonifyurls: true
+canonifyurls = true
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
