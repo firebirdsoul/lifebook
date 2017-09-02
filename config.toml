@@ -32,7 +32,7 @@ canonifyurls = true
 
 [author]
   name = "唐山晋水"
-  bio = "Poem - Wine - Code"
+  bio = "吸燕赵秦陇之劲气，沐巴蜀吴越之清风"
   job = "Your job title"
   location = "France"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
